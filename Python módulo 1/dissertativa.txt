@@ -1,0 +1,11 @@
+Metodologia para tabuada do 9
+
+Leia e armazene o número fornecido pelo usuário que se deseja multiplicar por 9   
+
+Subtraia do número fornecido pelo usuário -1, para encontrar a unidade de dezena e armazene como o 1º dígito    
+
+Subtraia de 10 o número fornecido pelo usuário para encontrar a unidade e armazene como o 2º dígito     
+                                
+Realize o cálculo, multiplique o primeiro dígito por 10 e some com o segundo dígito para encontrar o resultado   
+
+Apresente o  resultado e encerre o programa                                                

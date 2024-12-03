@@ -1,0 +1,9 @@
+Início;
+Leia numeroDoUsuario;                 # entrada
+primeiroDigito = numeroDoUsuario - 1
+segundoDigito = 10 - numeroDoUsuario
+resultado = (primeiroDigito * 10) + segundoDigito
+apresente
+Imprima resultado ;                         # saída
+encerre                                     #fim
+
